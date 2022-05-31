@@ -1,0 +1,23 @@
+/* .main-row {
+  height: 100vh;
+} */
+/* .main-col {
+  max-width: 80vw;
+  min-height: 80vh;
+} */
+body {
+  background-color: rgb(212, 207, 166);
+}
+
+h2 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.row {
+  background-color: rgb(160, 160, 117);
+}
+
+.addbtn {
+  background-color: rgb(9, 9, 18);
+  color: beige;
+}
